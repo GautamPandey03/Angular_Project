@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "student": [
+    {
+      "name": "Gautam",
+      "Dob": "1999-11-02",
+      "score": "90",
+      "id": 1
+    },
+    {
+      "name": "Anil",
+      "Dob": "2022-08-01",
+      "score": "85",
+      "id": 2
+    },
+    {
+      "name": "Garima",
+      "Dob": "1992-06-20",
+      "score": "82",
+      "id": 3
+    },
+    {
+      "name": "Satyam",
+      "Dob": "1992-06-17",
+      "score": "88",
+      "id": 4
+    },
+    {
+      "name": "Suman",
+      "Dob": "1982-06-17",
+      "score": 85,
+      "id": 5
+    },
+    {
+      "id": 10,
+      "name": "Ojas sir",
+      "Dob": "2022-08-25",
+      "score": "90"
+    },
+    {
+      "id": 11,
+      "name": "Anil",
+      "Dob": "2022-09-01",
+      "score": "85"
+    }
+  ]
+}
